@@ -21,6 +21,8 @@ public class Stock {
 	@Persistent
 	private Date createDate;
 
+	// this is a comment
+	
 	public Stock() {
 		this.createDate = new Date();
 	}
